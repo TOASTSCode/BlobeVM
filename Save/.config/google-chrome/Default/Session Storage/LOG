@@ -1,2 +1,6 @@
-2026/01/12-15:06:56.727 5 Creating DB /config/.config/google-chrome/Default/Session Storage since it was missing.
-2026/01/12-15:06:56.747 5 Reusing MANIFEST /config/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2026/01/12-23:15:47.574 5 Reusing MANIFEST /config/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2026/01/12-23:15:47.575 5 Recovering log #3
+2026/01/12-23:15:47.576 5 Reusing old log /config/.config/google-chrome/Default/Session Storage/000003.log 
+2026/01/12-23:19:32.762 5 Level-0 table #5: started
+2026/01/12-23:19:32.779 5 Level-0 table #5: 34311 bytes OK
+2026/01/12-23:19:32.810 5 Delete type=0 #3
